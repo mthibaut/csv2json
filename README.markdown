@@ -11,7 +11,8 @@ examples
 
 input.csv:
 
-````name;description
+````
+name;description
 csv2json;Parses a CSV file
 node;Very important!
 ````
